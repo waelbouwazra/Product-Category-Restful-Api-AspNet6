@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cUZ0NmQMv2dz4UNuZq5d9xulo98Fqd0UhhT5FLEpxArQCQKKWSOkJfu967lHZ1y+oGBJUYjEkcWhT5ArlpBRig==",
+  "dgSpecHash": "B1Yg0X/ONzt96o6+DSBls8/dj08MuIm8JLwx+WNnyRhxvWGSl+sTZtzLIztndyXksgLL9WDOiFNjcMgwj7aP2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wael\\Documents\\Net 6\\ProductCategory.Service\\ProductCategory.Service.csproj",
+  "projectFilePath": "C:\\Users\\Wael\\Documents\\Net 6\\Product-Category-Restful-Api-AspNet6\\ProductCategory.Service\\ProductCategory.Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
