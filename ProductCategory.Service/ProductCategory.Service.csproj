@@ -12,4 +12,8 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProductCategory.Repo\ProductCategory.Repo.csproj" />
+  </ItemGroup>
+
 </Project>
