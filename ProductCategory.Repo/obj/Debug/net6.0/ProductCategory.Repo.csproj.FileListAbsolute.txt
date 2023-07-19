@@ -1,0 +1,16 @@
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\bin\Debug\net6.0\ProductCategory.Repo.dll.config
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\bin\Debug\net6.0\ProductCategory.Repo.deps.json
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\bin\Debug\net6.0\ProductCategory.Repo.dll
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\bin\Debug\net6.0\ProductCategory.Repo.pdb
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\bin\Debug\net6.0\ProductCategory.Core.dll
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\bin\Debug\net6.0\ProductCategory.Core.pdb
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\obj\Debug\net6.0\ProductCategory.Repo.csproj.AssemblyReference.cache
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\obj\Debug\net6.0\ProductCategory.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\obj\Debug\net6.0\ProductCategory.Repo.AssemblyInfoInputs.cache
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\obj\Debug\net6.0\ProductCategory.Repo.AssemblyInfo.cs
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\obj\Debug\net6.0\ProductCategory.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\obj\Debug\net6.0\ProductCategory.Repo.csproj.CopyComplete
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\obj\Debug\net6.0\ProductCategory.Repo.dll
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\obj\Debug\net6.0\refint\ProductCategory.Repo.dll
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\obj\Debug\net6.0\ProductCategory.Repo.pdb
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Repo\obj\Debug\net6.0\ref\ProductCategory.Repo.dll

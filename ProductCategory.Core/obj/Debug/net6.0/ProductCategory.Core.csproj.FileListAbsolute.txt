@@ -1,0 +1,14 @@
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\bin\Debug\net6.0\ProductCategory.Core.deps.json
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\bin\Debug\net6.0\ProductCategory.Core.runtimeconfig.json
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\bin\Debug\net6.0\ProductCategory.Core.dll
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\bin\Debug\net6.0\ProductCategory.Core.pdb
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\obj\Debug\net6.0\ProductCategory.Core.csproj.AssemblyReference.cache
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\obj\Debug\net6.0\ProductCategory.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\obj\Debug\net6.0\ProductCategory.Core.AssemblyInfoInputs.cache
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\obj\Debug\net6.0\ProductCategory.Core.AssemblyInfo.cs
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\obj\Debug\net6.0\ProductCategory.Core.csproj.CoreCompileInputs.cache
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\obj\Debug\net6.0\ProductCategory.Core.dll
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\obj\Debug\net6.0\refint\ProductCategory.Core.dll
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\obj\Debug\net6.0\ProductCategory.Core.pdb
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\obj\Debug\net6.0\ProductCategory.Core.genruntimeconfig.cache
+C:\Users\Wael\Documents\Net 6\Product-Category-Restful-Api-AspNet6\ProductCategory.Core\obj\Debug\net6.0\ref\ProductCategory.Core.dll
